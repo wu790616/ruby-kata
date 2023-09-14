@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-require_relative 'twelve_days'
+require_relative '../twelve_days'
 
 class TwelveDaysTest < Minitest::Test
   def test_the_whole_song
