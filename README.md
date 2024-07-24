@@ -11,5 +11,6 @@ Record my solutions with ruby in coding practice websites
 |[Port Of Palermo](https://exercism.org/tracks/ruby/exercises/moviegoer)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/port_palermo.rb)|Symbols||2023-09-15|
 |[Chess Game](https://exercism.org/tracks/ruby/exercises/chess-game)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/chess_game.rb)|Ranges||2024-03-17|
 |[Bob](https://exercism.org/tracks/ruby/exercises/bob)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/bob.rb)|Strings|Medium|2024-04-28|
+|[BlackJack](https://exercism.org/tracks/ruby/exercises/blackjack)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/blackjack.rb)|Case||2024-07-24|
 ### [AOC](https://adventofcode.com/)
 - [Advent of Code 2021](https://adventofcode.com/2021): [Solutions](https://github.com/wu790616/ruby-kata/tree/master/aoc/aoc_2021)
