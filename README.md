@@ -13,5 +13,6 @@ Record my solutions with ruby in coding practice websites
 |[Bob](https://exercism.org/tracks/ruby/exercises/bob)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/bob.rb)|Strings|Medium|2024-04-28|
 |[BlackJack](https://exercism.org/tracks/ruby/exercises/blackjack)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/blackjack.rb)|Case||2024-07-24|
 |[Bird Count](https://exercism.org/tracks/ruby/exercises/bird-count)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/bird_count.rb)|Arrays, Enumeration||2024-09-22|
+|[Boutique Inventory](https://exercism.org/tracks/ruby/exercises/boutique-inventory)|[Ruby](https://github.com/wu790616/ruby-kata/blob/master/exercism/boutique_inventory.rb)|Advanced Enumeration||2024-12-29|
 ### [AOC](https://adventofcode.com/)
 - [Advent of Code 2021](https://adventofcode.com/2021): [Solutions](https://github.com/wu790616/ruby-kata/tree/master/aoc/aoc_2021)
